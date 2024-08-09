@@ -1,29 +1,16 @@
-# Olá, Eu sou o Anthony! 👋
+## Olá, Eu sou o Anthony! 👋
 
-Sobre mim
-
-💻 Eu sou um desenvolvedor Front-End<br>
+Sobre mim <br><br>
+💻 Eu sou um desenvolvedor Front-End<br><br>
 👩‍💻 Atualmente eu trabalho como Estágiario em Desenvolvimento para 5by5 | Soluções em Sistemas<br>
 🎓 Eu estudo Ciência de Dados - Univesp
 
 ## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />   
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />    
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />     
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />   
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />   
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-plain.svg" />
-            
-<div>
-<a href="https://github.com/anthonyccosta">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyccosta&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonyccosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>   
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" witdh="35" height="35" style="max-width:100%;"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" witdh="40" height="40" style="max-width:100%;"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" witdh="40" height="40" style="max-width:100%;"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" witdh="40" height="40" style="max-width:100%;"></img>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c-sharp" witdh="40" height="40" style="max-width:100%;"></img>
 
 # Contatos
 <div>
