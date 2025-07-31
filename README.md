@@ -1,13 +1,9 @@
 ## Olá, Eu sou o Anthony! 👋
 
 #### Sobre mim <br>
-💻 Eu sou um desenvolvedor Front-End<br>
-👩‍💻 Atualmente eu trabalho como Estágiario para 5by5 | Soluções em Sistemas<br>
 🎓 Eu estudo <a href="https://univesp.br/cursos/bacharel-em-ciencia-de-dados" rel="nofollow">Ciência de Dados - Universidade Virtual do Estado de São Paulo(UNIVESP)</a>
 
 #### About me <br>
-💻 I am a Front-End Developer<br>
-👩‍💻 Currently, I work as an Intern for 5by5 | Soluções em Sistemas<br>
 🎓 I study <a href="https://univesp.br/cursos/bacharel-em-ciencia-de-dados" rel="nofollow">Data Science - UNIVESP</a>
 
 <p dir="auto"><strong>Tecnologias e Ferramentas</strong></p>
